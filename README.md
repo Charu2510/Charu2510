@@ -1,8 +1,8 @@
 ## Hi, I'm Charu 👋
 
-🎓 B.Tech. CSE'25 Graduate from Banasthali Vidyapith </br>
-🚀 On a journey to explore myself in the tech world </br>
-😎 DSA- C++  ||  Dev- Java, Django, Jetpack Compose, Flutter  ||  Concepts- C, DBMS, OOPs </br>
+🎓 B.Tech. CSE'25  </br>
+🚀 Exploring my potential and purpose through the ever-evolving landscape of tech. </br>
+😎 <b>DSA</b>- C++  |  </b>Dev</b>- Java, Django, Jetpack Compose, Flutter  |  <b>Concepts</b>- C, DBMS, OOPs </br>
 ✏️ I’m currently learning: Spring Boot  |  AWS  |  Python </br>
 
 
